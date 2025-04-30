@@ -99,7 +99,7 @@ body {
 }
 
 .calc-button:active {
-    box-shadow: none; /* Remove shadow when the button is pressed */
+    box-shadow: none; 
 }
 
 .calc-buttons .calc-button:nth-child(-n+4) {
