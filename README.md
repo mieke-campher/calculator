@@ -4,7 +4,7 @@ A simple JavaScript calculator with basic arithmetic operations.
 
 ## Live Demo
 
-Click here to view the calculator
+[Click here to try the calculator](https://mieke-campher.github.io/calculator/)
 
 ## Features
 
